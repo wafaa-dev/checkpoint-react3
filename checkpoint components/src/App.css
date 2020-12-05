@@ -1,0 +1,15 @@
+.App-header {
+  color: violet;
+  text-align: center;
+}
+.profilPhoto {
+  background-color: lightblue;
+  text-align: center;
+  border-radius: 12px;
+}
+.Address {
+  text-align: center;
+}
+.FullName {
+  text-align: center;
+}
